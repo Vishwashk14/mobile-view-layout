@@ -1,0 +1,310 @@
+
+.main{
+    background-color: #f8f8f8;
+    padding: 10px;
+
+}
+.conatiner{
+    margin-top: -80px;
+}
+
+
+.img-icon{
+    width:30px;
+    height: fit-content;
+
+
+}
+
+.heading{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    line-height: 20px;
+    margin: auto;
+    float: center;
+    font-weight: 600;
+}
+
+.top_Header{
+    padding: 10px 15px;
+}
+.top_Header .img-icon{}
+
+.search-bar{    
+    position: relative;
+    margin-top: 25px;
+    padding: 0px 15px;
+}
+.search-bar .Search_Input_CS{
+    border: 1px solid #f7f7f7;
+    height: auto;
+    width: 90%;
+    padding: 8px 15px;
+    border-radius: 6px;
+}
+
+.search-bar .Search_Icon_Img{
+    position: absolute;
+    width: 20px;
+  
+    right:15%;
+    top: 10px;
+    cursor: pointer;
+    opacity: 50%;
+}
+
+
+.filter-icon-cs{
+    width:40px;
+    position: absolute;
+    right:2%;
+}
+
+
+/* banner CSS start here */
+
+.offer-main-cs{
+    position: absolute;
+    color: white;
+
+    margin: 65px 25px;
+    background: rgb(255, 255, 255,0.5);
+    border-radius: 15px;
+    padding: 4%;
+
+}
+
+.offer-main-cs h{
+    font-size: 8vw;
+    font-weight: 400;
+    line-height: 10px;
+
+}
+
+.offer-main-cs p{
+    font-size: 1.5vw;
+
+}
+
+.offer-main-cs h4{
+    font-size: 8vw;
+    margin-top: -15px;
+    margin-bottom: 0px;
+}
+
+
+
+.banner-img-css-1{
+padding: 15px;
+
+
+}
+
+.banner-img-css{
+
+width: 100%;
+padding: 0px;
+
+border-radius: 25px;
+box-shadow: 1px 1px 4px #232323;
+
+
+}
+
+
+/* scroll bar start here */
+
+
+/* All 1st scroll CSS */
+.first-scroll-cs{
+    background: #ffff;
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.first-scroll-cs img{
+    width:25px;
+    height:fit-content
+}
+
+.first-scroll-cs h3{
+    margin-top: 5px;
+ display: inline-block;
+font-size: 15px;
+margin-left:8px;
+}
+
+
+/* shoe 2nd scroll css */
+.second-scroll-cs{
+padding: 15PX;
+background: #ffff;
+margin-left:15px;
+border-radius: 10px;
+cursor: pointer;
+}
+.second-scroll-cs img{
+    width: 30px;
+    height: fit-content;
+}
+
+.second-scroll-cs h3{
+    margin-right:4px;
+    margin-top:5px; 
+    display: inline-block;
+    font-size: 15px;
+    margin-left:8px;
+}
+
+/* t-shirt 3rd scroll CSS */
+
+.third-scroll-cs{
+
+    padding: 15PX;
+    background: #ffff;
+    margin-left:15px;
+    border-radius: 10px;
+    cursor: pointer;
+
+
+}
+
+
+.third-scroll-cs img{
+width:25px;
+height: fit-content;
+
+}
+
+
+.third-scroll-cs h3{
+display: inline-block;
+font-size: 15px;
+margin-left:8px;
+margin-top: 5px;
+}
+
+/* watch 4th swip css */
+
+.fouth-scroll-cs{
+
+    padding: 15PX;
+    background: #ffff;
+    margin-left:15px;
+    border-radius: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.fouth-scroll-cs img{
+    width: 25px;
+    height: fit-content;
+}
+
+.fouth-scroll-cs h3{
+    display: inline-block;
+    font-size: 15px;
+    margin-left:5px;
+    margin-top: 5px;
+}
+
+
+/* popluar text css */
+
+.popular-cs{
+    margin-top: 15px;
+}
+.popular-cs h1{
+font-size: 30px;
+font-weight: 700;
+float: left;
+
+
+
+
+}
+
+.view-cs{
+font-size: 14px;
+color:#707070;
+text-align:right;
+float: right;
+margin-top: 15px;
+
+}
+
+/* images css for the gallary  */
+
+.row{
+    margin-top: 80px;
+}
+
+.img-cs{
+    padding-top: 15px;
+    width:100%;
+    border-radius: 50px;
+}
+
+/* footter CSS start here */
+
+.navbar {
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+   
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  a:hover {
+    transform: scale(1);
+    border: 1px solid hot;
+    background: rgb(54, 54, 54);
+    padding: 15px;
+    border-radius: 50px;
+  }
+  
+  
+  
+  .main {
+    padding: 16px;
+    margin-bottom: 30px;
+  }
+  
+  .icon-home{
+     
+      width: 4vw;
+      
+      
+    
+  }
+ 
+
+  .icon-fav{
+    width:4vw;
+
+  }
+
+  .icon-bag{
+    width: 4vw;
+
+  }
+
+  .icon-user{
+width:4vw;
+margin-right:15px;
+
+}
